@@ -16,3 +16,5 @@ Sua maga local, viajando o mundo após hordas de demônios terem invadido o mund
 • 3 Armas diferentes
 • 7 inimigos + 1 boss
 • Suporte Windows (em breve Android)
+
+(https://github.com/kroujiro/eleytherias/releases/tag/game)
