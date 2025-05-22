@@ -17,4 +17,4 @@ Sua maga local, viajando o mundo após hordas de demônios terem invadido o mund
 • 7 inimigos + 1 boss
 • Suporte Windows (em breve Android)
 
-(https://github.com/kroujiro/eleytherias/releases/tag/game)
+<a href="https://github.com/kroujiro/ranco_br/releases/download/rpg/Ranco.zip" title="Download">Baixe o Jogo!</a>
